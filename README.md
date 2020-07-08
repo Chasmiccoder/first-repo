@@ -1,4 +1,5 @@
 # first-repo
 First Repository! 
-First Edit!!! \n
+First Edit!!!
+
 Some Description
